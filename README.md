@@ -21,10 +21,11 @@
 - Data Base: Use Salesforce or Digital Public Good project like CKAN
 - AI: Use Open AI LLM Models with SaaS or PaaS platforms for processing AI models
 
-![image](https://github.com/psawant75/CommunityConnect/assets/26476587/d4e49853-01ab-4efc-a490-e1052a2bb13a)
+![image](https://github.com/psawant75/CommunityConnect/assets/26476587/f9fde61c-6151-4da6-a047-02f265f0e71b)
+
 
 - ChatBot Demo - https://drive.google.com/file/d/16kK7u7DrKuTZILqKed66xVqbDkk7o6kJ/view
 - Figma Prototype Link - https://www.figma.com/proto/vg3J1Hx2WCTv6z3elVxtm6/Salesforce-Hackathon?node-id=5-1351&t=O98OU5uNBQDdmSIk-1&scaling=min-zoom&page-id=0%3A1
-- Presentation Deck -
+- Presentation Deck - https://drive.google.com/file/d/1yOIqk9Jr6idzzdrAWNqyC9Ae6kggJ1VT/view
 
 
