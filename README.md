@@ -1,18 +1,22 @@
-# Salesforce DX Project: Next Steps
+# Rebooth The Earth Hackathon: 
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+**Problem Statement:** Addressing the challenges faced by vulnerable communities due to climate change especially women is incredibly complex. 
 
-## How Do You Plan to Deploy Your Changes?
+## Personas
+- Individuals / Community Members: Represents the group of women who need help and can provide help
+- Government / CSR Organisations: Represents the group of stakeholders that can provide support financial and knowledge help. 
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
 
-## Configure Your Salesforce DX Project
+## Solution Overview
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+**Solution:** Create a platform to enable the communities to share reliable ideas that have been proven to tackle local challenges due to climate change in the past.
 
-## Read All About It
+**Design Overview:**
+- User Interface: Use a Salesforce Experience Site or Open Source Tool like Heroku
+- Data Base: Use Salesforce or Digital Public Good project like CKAN
+- AI: Use Open AI LLM Models with SaaS or PaaS platforms for processing AI models
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+![image](https://github.com/psawant75/CommunityConnect/assets/26476587/d4e49853-01ab-4efc-a490-e1052a2bb13a)
+
+
+## 
