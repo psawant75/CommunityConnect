@@ -23,7 +23,7 @@
 
 ![image](https://github.com/psawant75/CommunityConnect/assets/26476587/d4e49853-01ab-4efc-a490-e1052a2bb13a)
 
-- ChatBot Demo -
+- ChatBot Demo - https://drive.google.com/file/d/16kK7u7DrKuTZILqKed66xVqbDkk7o6kJ/view
 - Figma Prototype Link -
 - Presentation Deck -
 
