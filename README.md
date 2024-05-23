@@ -11,6 +11,11 @@
 
 **Solution:** Create a platform to enable the communities to share reliable ideas that have been proven to tackle local challenges due to climate change in the past.
 
+**Objectives:**
+- Enable knowledge sharing across vulnerable communities
+- Increase stakeholder visibility to enable financial & CSR support toward the informal climate sector, protecting female workers and other marginalized communities
+- Moderate the increased impact of climate threats on marginalized communities and protect traditional and informal professions 
+
 **Design Overview:**
 - User Interface: Use a Salesforce Experience Site or Open Source Tool like Heroku
 - Data Base: Use Salesforce or Digital Public Good project like CKAN
@@ -18,5 +23,8 @@
 
 ![image](https://github.com/psawant75/CommunityConnect/assets/26476587/d4e49853-01ab-4efc-a490-e1052a2bb13a)
 
+- ChatBot Demo -
+- Figma Prototype Link -
+- Presentation Deck -
 
-## 
+
